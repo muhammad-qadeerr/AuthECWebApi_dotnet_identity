@@ -6,4 +6,4 @@
 
 3. Microsoft.EntityFrameworkCore.Tools
 
-This branch contains the implementation for user registration using identity.
+This branch contains the implementation for user registration using identity via Minimal API
