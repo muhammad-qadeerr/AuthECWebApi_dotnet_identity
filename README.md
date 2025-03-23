@@ -6,4 +6,5 @@
 
 3. Microsoft.EntityFrameworkCore.Tools
 
-This branch contains the implementation for user registration  (SignUp and SignIn) using identity and JWT via Minimal API
+**main branch** contains the implementation for user registration  (SignUp and SignIn) using identity and JWT via Minimal API
+**authorization_claims_policies** contains the Authorization using .NET identity using User Roles, Claims and Custom Policies.
