@@ -6,4 +6,4 @@
 
 3. Microsoft.EntityFrameworkCore.Tools
 
-This branch contains the implementation for ** User Authtication **(SignUp and SignIn) using identity and JWT via Minimal API
+This branch contains the implementation for **User Authtication** (SignUp and SignIn) using identity and JWT via Minimal API
